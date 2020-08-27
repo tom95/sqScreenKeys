@@ -1,0 +1,14 @@
+{
+	"category" : "ScreenKeys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ScreenKey",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
