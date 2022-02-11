@@ -1,3 +1,4 @@
 OrderedDictionary {
-	'src/ScreenKeys.package' : #SquotCypressCodeSerializer
+	'src/ScreenKeys.package' : #SquotCypressCodeSerializer,
+	'src/BaselineOfScreenKeys.package' : #SquotCypressCodeSerializer
 }

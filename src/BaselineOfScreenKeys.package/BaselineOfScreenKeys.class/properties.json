@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfScreenKeys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfScreenKeys",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
