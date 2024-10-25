@@ -1,4 +1,7 @@
 as yet unclassified
 updatePosition
 
-	Project current addDeferredUIMessage: [self right: ActiveWorld right]
+	| do |
+	do := [self fullBounds. self right: ActiveWorld right].
+	Processor activeProcess == Project uiProcess ifTrue: [do value] ifFalse: [
+	Project current addDeferredUIMessage: do]

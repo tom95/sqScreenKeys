@@ -1,10 +1,12 @@
 {
 	"class" : {
 		"close" : "tobe 8/27/2020 10:40",
+		"fontSize" : "tobe 10/25/2024 10:33",
+		"fontSize:" : "tobe 10/25/2024 10:34",
 		"open" : "tobe 8/27/2020 10:39" },
 	"instance" : {
 		"edgeToAdhereTo" : "tobe 8/11/2020 08:30",
-		"filterEvent:for:" : "tobe 8/11/2020 09:00",
+		"filterEvent:for:" : "tobe 10/25/2024 10:40",
 		"initialize" : "tobe 8/11/2020 13:35",
 		"isAdheringToBottom" : "tobe 8/11/2020 08:31",
 		"isAdheringToLeft" : "tobe 8/11/2020 08:29",
@@ -13,6 +15,7 @@
 		"isDockingBar" : "tobe 8/11/2020 08:31",
 		"morphicLayerNumber" : "tobe 8/11/2020 08:19",
 		"open" : "tobe 8/11/2020 08:16",
+		"rejectsEvent:" : "tobe 10/25/2024 10:57",
 		"removedMorph:" : "tobe 8/11/2020 09:00",
-		"updatePosition" : "tobe 8/11/2020 09:00",
+		"updatePosition" : "tobe 10/25/2024 10:46",
 		"wantsToBeTopmost" : "tobe 8/11/2020 08:17" } }
