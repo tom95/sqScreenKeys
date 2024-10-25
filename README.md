@@ -11,4 +11,5 @@ Metacello new
 
 ScreenKeys open.
 ScreenKeys close.
+ScreenKeys fontSize: 20.
 ```
